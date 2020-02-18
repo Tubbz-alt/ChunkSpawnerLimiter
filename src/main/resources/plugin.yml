@@ -1,0 +1,5 @@
+name: ChunkSpawnerLimiter
+main: com.cyprias.chunkspawnerlimiter.ChunkSpawnerLimiter
+author: Cyprias
+description: Limit entities in a chunk.
+version: ${project.version}
